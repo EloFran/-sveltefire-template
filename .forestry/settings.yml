@@ -7,7 +7,6 @@ sections:
 - type: document
   path: constitucion
   label: constitucion
-  match: "**/*"
 - type: heading
   label: Cabecera
 - type: directory
